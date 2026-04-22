@@ -1,0 +1,9 @@
+{
+  "name": "drews-recipe-api",
+  "version": "1.0.0",
+  "description": "Recipe extraction API for Drew's Fitness Hub",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
